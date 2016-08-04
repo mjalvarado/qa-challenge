@@ -9,3 +9,14 @@ c:\users\malvarado\documents\visual studio 2015\Projects\PaylocityQAChallengeFun
 c:\users\malvarado\documents\visual studio 2015\Projects\PaylocityQAChallengeFunctionalAutomation\PaylocityQAChallengeFunctionalAutomation\obj\Debug\PaylocityQAChallengeFunctionalAutomation.csprojResolveAssemblyReference.cache
 c:\users\malvarado\documents\visual studio 2015\Projects\PaylocityQAChallengeFunctionalAutomation\PaylocityQAChallengeFunctionalAutomation\obj\Debug\PaylocityQAChallengeFunctionalAutomation.dll
 c:\users\malvarado\documents\visual studio 2015\Projects\PaylocityQAChallengeFunctionalAutomation\PaylocityQAChallengeFunctionalAutomation\obj\Debug\PaylocityQAChallengeFunctionalAutomation.pdb
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\bin\Debug\PaylocityQAChallengeFunctionalAutomation.dll
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\bin\Debug\PaylocityQAChallengeFunctionalAutomation.pdb
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\bin\Debug\nunit.framework.dll
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\bin\Debug\WebDriver.dll
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\bin\Debug\WebDriver.Support.dll
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\bin\Debug\nunit.framework.xml
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\bin\Debug\WebDriver.xml
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\bin\Debug\WebDriver.Support.xml
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\obj\Debug\PaylocityQAChallengeFunctionalAutomation.csprojResolveAssemblyReference.cache
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\obj\Debug\PaylocityQAChallengeFunctionalAutomation.dll
+C:\qa-challenge\PaylocityQAChallengeFunctionalAutomation\obj\Debug\PaylocityQAChallengeFunctionalAutomation.pdb

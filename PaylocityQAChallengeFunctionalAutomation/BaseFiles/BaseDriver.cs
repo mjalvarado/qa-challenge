@@ -9,9 +9,13 @@ namespace PaylocityQAChallengeFunctionalAutomation.BaseFiles
     /// <summary>
     /// Class is used to extend to all test cases
     /// and takes care of creating all drivers
+    /// also some helper methods for convenience when
+    /// writing code in test case since BaseDriver extends
+    /// its functionality to the test case
     /// </summary>
     public class BaseDriver
     {
+
         public static string BaseUrl;
         protected TimeSpan IMPLICIT_WAIT = TimeSpan.FromSeconds(30);
         public static IWebDriver driver;
